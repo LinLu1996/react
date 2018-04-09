@@ -28,6 +28,7 @@ app.router(require('./router').default);
 // 5. Start
 app.start('#root');
 
+// sync test by LEO
 
 FastClick.attach(document.body);
 
